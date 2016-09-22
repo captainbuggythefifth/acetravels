@@ -1,0 +1,28 @@
+/node_modules
+/public/storage
+/vendor
+/.idea
+Homestead.json
+Homestead.yaml
+.env
+
+git add .env.example
+git add .gitattributes
+git add .gitignore
+git add app/
+git add artisan
+git add bootstrap/
+git add composer.json
+git add composer.lock
+git add config/
+git add database/
+git add gulpfile.js
+git add package.json
+git add phpunit.xml
+git add public/
+git add readme.md
+git add resources/
+git add routes/
+git add server.php
+git add storage/
+git add tests/
